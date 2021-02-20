@@ -12,4 +12,4 @@ The Portal page is based on the Overlord Full-Screen Navigation Menu.
 
 ### Task List
 
-- [ ] Continue to Build on Existing Collection of Navigation Menu's
+- [ ] Continue to Build on Existing Collection of Footer's
